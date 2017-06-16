@@ -5,5 +5,5 @@ This Xamarin.Forms sample application is created for '[Enterprise Apps Made Easy
 
 Please refer this blog post and sample for latest example about enterprise authentication with Azure Active Directory using Microsoft Authentication Library (MSAL) & calling Microsoft Graph API. 
 
-- Tendulkar
+Tendulkar
 
